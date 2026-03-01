@@ -1,4 +1,4 @@
-# XLNet Emotion Classification (Personal Fine-Tuning Project)
+# XLNet Emotion Classification (Fine-Tuning Project)
 
 > End-to-end Transformer fine-tuning pipeline built independently to classify text emotions using XLNet and HuggingFace.
 
